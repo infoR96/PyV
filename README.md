@@ -1,4 +1,4 @@
-# PyV
+# Modelo predictivo Kuz ram 
 
  En este repositorio almaceno scripts aplicados a perforación y voladura.
  
